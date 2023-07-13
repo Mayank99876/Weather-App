@@ -1,0 +1,19 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(1, 1, 67);
+}
+
+.weather-container{
+    background-color: rgb(175, 177, 178);
+    padding: 20px;
+    height: 400px;
+    width: 400px;
+    margin-top: 20px;
+    border-radius: 20px;
+    position: absolute;
+    left:550px;
+}
