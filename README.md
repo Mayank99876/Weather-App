@@ -2,11 +2,11 @@
 
 This web application allows users to get the current weather details of any city by simply entering the city name. The app fetches and displays various weather parameters to provide comprehensive weather information.
 
-Getting Started
+- Getting Started
 
 To get started, simply open the index.html file in your web browser.
 
-Features
+- Features
 
 Enter the name of any city to get the current weather details.
 
@@ -20,14 +20,14 @@ Displays various weather parameters such as:
 - Visibility
 - And more...
  
-Built With
+- Built With
 
 HTML
 CSS
 JavaScript
 OpenWeather API (or any other weather API)
 
-How to Use
+- How to Use
 
 Clone the repository:
 
